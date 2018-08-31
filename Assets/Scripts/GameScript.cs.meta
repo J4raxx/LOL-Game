@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe89d08ac04ccdf4caf3902c364deb62
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - Enemy: {instanceID: 0}
+  - HPPointPrefab: {fileID: 1484437126649794, guid: bc9cd9f58942e4e58b78096b4be58e55,
+      type: 2}
+  - EnemyPrefab: {fileID: 4451971183150204, guid: 678e11735668fd342b7898b4a5f5e6d6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
