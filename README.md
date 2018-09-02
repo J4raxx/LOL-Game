@@ -4,7 +4,7 @@ Simple top-down space shotter written on Unity
 # Installation
 <ol>
 <li><a href="https://github.com/J4raxx/LOL-Game/archive/master.zip">Click here</a> to download ZIP with all the files</li>
-<li>Extract them</li>
+<li>Extract the files</li>
 <li>Now you can run the game simply by running 1.exe file</li>
 </ol>
 
