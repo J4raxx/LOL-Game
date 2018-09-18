@@ -7,6 +7,13 @@ Simple top-down space shotter written on Unity
 <li>Extract the files</li>
 <li>Now you can run the game simply by running 1.exe file</li>
 </ol>
+<ul>
+<li>or by typing this in your terminal: 
+<code>
+git clone https://github.com/J4raxx/LOL-Game
+</code>
+</li>
+ </ul>
 
 # Screenshots
 <img src="https://i.gyazo.com/4e1234b385414f1d9c5ec34941c0fcd5.png">
